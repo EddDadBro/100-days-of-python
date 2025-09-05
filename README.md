@@ -2,17 +2,9 @@
 
 
 
-This is my personal coding journey through the #100DaysOfPython challenge.  
-
-Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
+Welcome to my coding challenge repo!
 
 
 
-💻 Topics covered:
-
-\- Variables, input/output
-
-\- Functions, conditionals, loops
-
-\- Small projects (calculators, games, etc.)
+📄 Full project overview and progress log here: \[docs/README.md](docs/README.md)
 
