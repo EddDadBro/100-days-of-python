@@ -1,4 +1,4 @@
-\# 100 Days of Python 🐍
+# 100 Days of Python 🐍
 
 
 
@@ -10,19 +10,19 @@ Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
 
 
 
-\## 💻 Topics I’ll Cover
+## 💻 Topics I’ll Cover
 
 
 
-\- Variables, input/output
+- Variables, input/output
 
-\- Functions, conditionals, loops
+- Functions, conditionals, loops
 
-\- Small projects (calculators, games, etc.)
+- Small projects (calculators, games, etc.)
 
 
 
-\## 🗓️ Progress Log
+## 🗓️ Progress Log
 
 
 
@@ -30,13 +30,13 @@ Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
 
 |-----|----------------------------|------|
 
-| 1   | Band Name Generator        | \[Day\_01](../Day\_01/) |
+| 1   | Band Name Generator        | [Day\_01](../Day\_01/) |
 
 | 2   | \_(to be added)\_            | -    |
 
 
 
-\## 📅 Started on:
+## 📅 Started on:
 
 September 4, 2025
 
