@@ -32,9 +32,11 @@ Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
 
 | 1   | Band Name Generator        | [Day\_01](../Day\_01/) |
 
-| 2   | Tip Calculator          | [Day\_02](../Day\_02/)    |
+| 2   | Tip Calculator             | [Day\_02](../Day\_02/)    |
 
-| 3   | \_(to be added)\_            | -    |
+| 3   | Treasure Island            | [Day\_03](../Day\_03/)    |
+
+| 4   | \_(to be added)\_            | -    |
 
 
 
