@@ -36,7 +36,9 @@ Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
 
 | 3   | Treasure Island            | [Day\_03](../Day\_03/)    |
 
-| 4   | \_(to be added)\_            | -    |
+| 4   | Heads or Tails             | [Day\_04](../Day\_04/)    |
+
+| 5   | \_(to be added)\_            | -    |
 
 
 
