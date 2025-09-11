@@ -38,8 +38,9 @@ Each day I’ll commit new code, notes, or mini-projects as I learn and grow.
 
 | 4   | Heads or Tails             | [Day\_04](../Day\_04/)    |
 
-| 5   | \_(to be added)\_            | -    |
+| 5   | \_(to be added)\_            | [Day\_05](../Day\_05/)    |
 
+| 6   | \_(to be added)\_            | -    |
 
 
 ## 📅 Started on:
